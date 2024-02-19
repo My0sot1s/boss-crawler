@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "exceljs": "^4.4.0",
+    "node-fetch": "^3.3.2",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "type": "module"
+}
